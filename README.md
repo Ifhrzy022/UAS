@@ -1,7 +1,8 @@
 
 # PACKAGE & MODULE
 
-!https://user-images.githubusercontent.com/92860414/149617899-c66c3a01-b03d-484a-8673-a750c15fbb56.png
+<img width="128" alt="awal" src="https://user-images.githubusercontent.com/92860414/149618328-5a4d05b8-bebf-4fee-9ea0-4d47d1057de0.png">
+
  
 * ``daftar_nilai.py`` berisi modul untuk  :
     * tambah_data
@@ -15,21 +16,20 @@
     * input_data (yang meminta pengguna memasukkan data).
 * ``main.py`` berisi program utama (menu pilihan yang memanggil semua menu yang ada).
 * **Output tambah_data**
-![tambah](https://user-images.githubusercontent.com/72916741/104220009-7374bc80-5471-11eb-8414-4873b05fa928.png)
+![Uploading tambah.png…]()
+
 
 * **Output daftar_nilai**
-![lihat](https://user-images.githubusercontent.com/72916741/104220500-2d6c2880-5472-11eb-98d6-3e09ec86fc7c.png)
+<img width="522" alt="liat" src="https://user-images.githubusercontent.com/92860414/149618412-6e3bde84-25ab-4483-9d48-3d919139b214.png">
 
 * **Output ubah_data**
-![ubah](https://user-images.githubusercontent.com/72916741/104220700-76bc7800-5472-11eb-8551-168cae592584.png)
+<img width="515" alt="ubah" src="https://user-images.githubusercontent.com/92860414/149618417-2b90abdb-ff24-4f65-ac9b-addbfc1b6154.png">
 
 * **Output Cari_data**
-![cari](https://user-images.githubusercontent.com/72916741/104221067-fc402800-5472-11eb-8a5b-e1e1ea796b22.png)
+<img width="570" alt="cari" src="https://user-images.githubusercontent.com/92860414/149618420-79a12c28-09ae-407c-84e2-6be9e3331e63.png">
 
 * **Output Hapus_data**
-
-  ![hapus](https://user-images.githubusercontent.com/72916741/104221545-999b5c00-5473-11eb-9cf3-6374f2e6ebb9.png)
+<img width="610" alt="hapus" src="https://user-images.githubusercontent.com/92860414/149618413-8468a959-d5ec-44bb-bb29-7292c69ea598.png">
 
 * **Output break**
-![keluar](https://user-images.githubusercontent.com/72916741/104221729-e5e69c00-5473-11eb-952a-92d2eab7c779.png)
-
+<img width="476" alt="keluar" src="https://user-images.githubusercontent.com/92860414/149618427-4c51907e-bc6a-42cd-aea4-607e56e8992b.png">
